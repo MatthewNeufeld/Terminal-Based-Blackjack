@@ -1,6 +1,6 @@
 # Terminal-Based-Blackjack
 
-A simple terminal-based blackjack simulator with a dealer.
+A simple terminal-based blackjack simulator with a dealer using Python.
 
 # What I Learned
 
